@@ -1,0 +1,16 @@
+{
+    "name": "ngs/date-converter",
+    "description": "The Date Convert Lib.",
+    "keywords": ["date", "date convert"],
+    "license": "MIT",
+    "homepage": "https://laravel.com",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "NGS\\": "src/DateConverter/"
+        }
+    }
+}
